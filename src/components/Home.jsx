@@ -1,9 +1,9 @@
 import React from "react";
-import "../App.css";
+import "../styles/Home.css";
 
 export default function Home() {
   return (
-    <div>
+    <div className="home">
       <h6 className="home-title">Adele</h6>
     </div>
   );
