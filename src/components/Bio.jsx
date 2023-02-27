@@ -6,7 +6,7 @@ export default function Bio() {
     <div className="bio-container">
       <h6 className="text-center pt-5 pb-5 fw-bold bio-title">BIOGRAPHY</h6>
       <p>
-        Adele Laurie Adkins Blue, or more famously known by her stage name
+        Adele Laurie Blue Adkins, or more famously known by her stage name
         'Adele', was born on May 5th 1988 in the Tottenham district of London.
         She began singing at the age of 4 and asserts that she became obsessed
         with voices. Adele attended BRIT School for Performing Arts & Technology
