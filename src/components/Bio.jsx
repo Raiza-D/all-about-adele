@@ -22,7 +22,6 @@ export default function Bio() {
         and has even won an Academy Award for her James Bond soundtrack single
         "Skyfall".
       </p>
-      <br />
       <p>
         British pop band, Spice Girls, has been a major influence in regards to
         Adele's love and passion for music, stating that "they made me what I am
