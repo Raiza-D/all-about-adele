@@ -4,7 +4,7 @@ import "../styles/Bio.css";
 export default function Bio() {
   return (
     <div className="bio-container">
-      <h6 className="text-center fw-bold bio-title pt-5 pb-5">BIOGRAPHY</h6>
+      <h6 className="text-center pt-5 pb-5 fw-bold bio-title">BIOGRAPHY</h6>
       <p>
         Adele Laurie Adkins Blue, or more famously known by her stage name
         'Adele', was born on May 5th 1988 in the Tottenham district of London.
