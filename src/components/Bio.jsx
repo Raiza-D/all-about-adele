@@ -22,12 +22,13 @@ export default function Bio() {
           soundtrack single "Skyfall".
         </p>
         <br />
-        <br />
-        British pop band, Spice Girls, has been a major influence in regards to
-        Adele's love and passion for music, stating that "they made me what I am
-        today." Growing up, Adele listened to Sinead O'Connor, the Cranberries,
-        Bob Marley, Whitney Houston, Aretha Franklin, and Celine Dion to name a
-        few.
+        <p>
+          British pop band, Spice Girls, has been a major influence in regards
+          to Adele's love and passion for music, stating that "they made me what
+          I am today." Growing up, Adele listened to Sinead O'Connor, the
+          Cranberries, Bob Marley, Whitney Houston, Aretha Franklin, and Celine
+          Dion to name a few.
+        </p>
       </p>
     </div>
   );
