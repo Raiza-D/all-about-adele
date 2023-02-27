@@ -5,7 +5,7 @@ import Accordion from "react-bootstrap/Accordion";
 export default function Albums() {
   return (
     <div className="albums-container">
-      <h6 className="text-center fw-bold albums-title">DISCOGRAPHY</h6>
+      <h6 className="text-center fw-bold pt-5 pb-5 albums-title">DISCOGRAPHY</h6>
       <Accordion defaultActiveKey="0">
         <Accordion.Item eventKey="0">
           <Accordion.Header>Accordion Item #1</Accordion.Header>
