@@ -12,7 +12,7 @@ export default function Albums() {
       <Accordion defaultActiveKey="0">
         <Accordion.Item eventKey="0">
           <Accordion.Header>
-            <img src={fourthAlbum} />
+            <img src={fourthAlbum} alt="Adele 30 album cover" />
             30 | 2021
           </Accordion.Header>
           <Accordion.Body>
