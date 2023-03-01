@@ -13,8 +13,12 @@ export default function Albums() {
       <Accordion defaultActiveKey="0">
         <Accordion.Item eventKey="0">
           <Accordion.Header>
-            <img src={fourthAlbum} alt="Adele 30 album cover" width="100" height="100"
-            className="me-3 rounded"
+            <img
+              src={fourthAlbum}
+              alt="Adele 30 album cover"
+              width="100"
+              height="100"
+              className="me-3 rounded"
             />
             30 | 2021
           </Accordion.Header>
@@ -24,7 +28,16 @@ export default function Albums() {
           </Accordion.Body>
         </Accordion.Item>
         <Accordion.Item eventKey="1">
-          <Accordion.Header>25 | 2015</Accordion.Header>
+          <Accordion.Header>
+            <img
+              src={thirdAlbum}
+              alt="Adele 25 album cover"
+              width="100"
+              height="100"
+              className="me-3 rounded"
+            />
+            25 | 2015
+          </Accordion.Header>
           <Accordion.Body>
             Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
             eiusmod tempor incididunt ut labore et dolore magna aliqua.
