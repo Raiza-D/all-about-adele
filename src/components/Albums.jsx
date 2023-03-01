@@ -2,6 +2,7 @@ import React from "react";
 import "../styles/Albums.css";
 import Accordion from "react-bootstrap/Accordion";
 import fourthAlbum from "../assets/30-album.png";
+import thirdAlbum from "../assets/25-album.png";
 
 export default function Albums() {
   return (
