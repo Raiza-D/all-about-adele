@@ -4,6 +4,7 @@ import Accordion from "react-bootstrap/Accordion";
 import fourthAlbum from "../assets/30-album.png";
 import thirdAlbum from "../assets/25-album.png";
 import secondAlbum from "../assets/21-album.png";
+import firstAlbum from "../assets/19-album.png";
 
 export default function Albums() {
   return (
@@ -54,7 +55,9 @@ export default function Albums() {
           </Accordion.Body>
         </Accordion.Item>
         <Accordion.Item eventKey="3">
-          <Accordion.Header>19 | 2008</Accordion.Header>
+          <Accordion.Header>
+            <img src={firstAlbum} />
+            19 | 2008</Accordion.Header>
           <Accordion.Body>
             Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
             eiusmod tempor incididunt ut labore et dolore magna aliqua.
