@@ -25,8 +25,10 @@ export default function Albums() {
             30 | 2021
           </Accordion.Header>
           <Accordion.Body>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-            eiusmod tempor incididunt ut labore et dolore magna aliqua.
+            <ol>
+              <li>Strangers by Nature</li>
+              <li>Easy On Me</li>
+            </ol>
           </Accordion.Body>
         </Accordion.Item>
         <Accordion.Item eventKey="1">
@@ -47,8 +49,15 @@ export default function Albums() {
         </Accordion.Item>
         <Accordion.Item eventKey="2">
           <Accordion.Header>
-            <img src={secondAlbum} alt="Adele 21 album cover" width="100" height="100" className="me-3 rounded" />
-            21 | 2011</Accordion.Header>
+            <img
+              src={secondAlbum}
+              alt="Adele 21 album cover"
+              width="100"
+              height="100"
+              className="me-3 rounded"
+            />
+            21 | 2011
+          </Accordion.Header>
           <Accordion.Body>
             Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
             eiusmod tempor incididunt ut labore et dolore magna aliqua.
@@ -56,10 +65,15 @@ export default function Albums() {
         </Accordion.Item>
         <Accordion.Item eventKey="3">
           <Accordion.Header>
-            <img src={firstAlbum} 
-            alt="Adele 19 album cover" width="100" height="100" className="me-3 rounded"
+            <img
+              src={firstAlbum}
+              alt="Adele 19 album cover"
+              width="100"
+              height="100"
+              className="me-3 rounded"
             />
-            19 | 2008</Accordion.Header>
+            19 | 2008
+          </Accordion.Header>
           <Accordion.Body>
             Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
             eiusmod tempor incididunt ut labore et dolore magna aliqua.
