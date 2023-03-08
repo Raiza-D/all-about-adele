@@ -33,6 +33,11 @@ export default function Albums() {
               <li>Oh My God</li>
               <li>Can I Get It</li>
               <li>I Drink Wine</li>
+              <li>All Night Parking (ft Erroll Garner)</li>
+              <li>Woman Like Me</li>
+              <li>Hold On</li>
+              <li>To Be Loved</li>
+              <li>Love Is A Game</li>
             </ol>
           </Accordion.Body>
         </Accordion.Item>
