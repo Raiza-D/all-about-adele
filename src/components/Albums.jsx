@@ -28,6 +28,11 @@ export default function Albums() {
             <ol>
               <li>Strangers by Nature</li>
               <li>Easy On Me</li>
+              <li>My Little Love</li>
+              <li>Cry Your Heart Out</li>
+              <li>Oh My God</li>
+              <li>Can I Get It</li>
+              <li>I Drink Wine</li>
             </ol>
           </Accordion.Body>
         </Accordion.Item>
