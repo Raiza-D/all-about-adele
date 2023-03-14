@@ -56,6 +56,7 @@ export default function Albums() {
             <ol>
               <li>Hello</li>
               <li>Send My Love (To Your New Lover)</li>
+              <li>I Miss You</li>
             </ol>
           </Accordion.Body>
         </Accordion.Item>
