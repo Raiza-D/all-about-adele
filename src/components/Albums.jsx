@@ -53,8 +53,7 @@ export default function Albums() {
             25 | 2015
           </Accordion.Header>
           <Accordion.Body>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-            eiusmod tempor incididunt ut labore et dolore magna aliqua.
+            
           </Accordion.Body>
         </Accordion.Item>
         <Accordion.Item eventKey="2">
