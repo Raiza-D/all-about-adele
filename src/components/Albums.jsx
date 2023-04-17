@@ -62,6 +62,8 @@ export default function Albums() {
               <li>Water Under the Bridge</li>
               <li>River Lea</li>
               <li>Love in the Dark</li>
+              <li>Million Years Ago</li>
+              <li>All I Ask</li>
             </ol>
           </Accordion.Body>
         </Accordion.Item>
