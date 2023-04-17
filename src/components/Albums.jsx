@@ -64,6 +64,7 @@ export default function Albums() {
               <li>Love in the Dark</li>
               <li>Million Years Ago</li>
               <li>All I Ask</li>
+              <li>Sweetest Devotion</li>
             </ol>
           </Accordion.Body>
         </Accordion.Item>
