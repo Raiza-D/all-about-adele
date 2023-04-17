@@ -8,8 +8,7 @@ export default function Bio() {
       <p>
         Adele Laurie Blue Adkins, or more famously known by her stage name
         'Adele', was born on May 5th 1988 in the Tottenham district of London.
-        She began singing at the age of 4 and asserts that she became obsessed
-        with voices. Adele attended BRIT School for Performing Arts & Technology
+        She began singing at the age of 4. Adele attended BRIT School for Performing Arts & Technology
         in Croydon, where she was a classmate of recording artists Leona Lewis
         and Jessie J.
       </p>
