@@ -59,6 +59,9 @@ export default function Albums() {
               <li>I Miss You</li>
               <li>When We Were Young</li>
               <li>Remedy</li>
+              <li>Water Under the Bridge</li>
+              <li>River Lea</li>
+              <li>Love in the Dark</li>
             </ol>
           </Accordion.Body>
         </Accordion.Item>
