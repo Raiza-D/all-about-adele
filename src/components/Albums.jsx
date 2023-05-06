@@ -80,7 +80,9 @@ export default function Albums() {
             21 | 2011
           </Accordion.Header>
           <Accordion.Body>
-            
+            <ol>
+              
+            </ol>
           </Accordion.Body>
         </Accordion.Item>
         <Accordion.Item eventKey="3">
