@@ -83,6 +83,7 @@ export default function Albums() {
             <ol>
               <li>Rolling in the Deep</li>
               <li>Rumour Has It</li>
+              <li>Turning Tables</li>
             </ol>
           </Accordion.Body>
         </Accordion.Item>
