@@ -105,7 +105,13 @@ export default function Albums() {
           </Accordion.Header>
           <Accordion.Body>
             Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-            eiusmod tempor incididunt ut labore et dolore magna aliqua.
+            eiusmod tempor incididunt ut labore et dolore magna aliqua. Etiam at
+            quam in elit aliquet ultricies. Proin sed odio porta, sodales metus
+            a, blandit risus. Vivamus vel ornare turpis. Ut facilisis, magna
+            quis pharetra pulvinar, metus nisi fermentum massa, at fringilla
+            mauris magna at enim. Cras vel urna aliquet, imperdiet neque sed,
+            blandit metus. Vestibulum pellentesque odio lectus, quis eleifend
+            elit condimentum vitae. Nullam a molestie mi.
           </Accordion.Body>
         </Accordion.Item>
       </Accordion>
