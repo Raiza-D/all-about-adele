@@ -88,7 +88,7 @@ export default function Albums() {
               <li>Set Fire to the Rain</li>
               <li>He Won't Go</li>
               <li>Take It All</li>
-              <li></li>
+              <li>I'll Be Waiting</li>
             </ol>
           </Accordion.Body>
         </Accordion.Item>
